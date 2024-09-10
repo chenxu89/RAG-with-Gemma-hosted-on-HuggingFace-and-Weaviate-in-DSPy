@@ -6,6 +6,10 @@
 2024.09.06-2024.09.07
 ## kaggle地址
 [RAG with Gemma hosted on HuggingFace and Weaviate in DSPy](https://www.kaggle.com/code/chenxucool/rag-with-gemma-on-hf-and-weaviate-in-dspy)
+
+## 技术博客地址
+[我的第2个AI项目-RAG with Gemma hosted on HuggingFace and Weaviate in DSPy](https://blog.csdn.net/weixin_43221845/article/details/141963587?csdn_share_tail=%7B%22type%22:%22blog%22,%22rType%22:%22article%22,%22rId%22:%22141963587%22,%22source%22:%22weixin_43221845%22%7D)
+
 ## 主要工作和收获
 - 用 Weaviate 向量数据库来构建检索模型从而增强生成。
 - 使用 DSPy 构建一个简单的 RAG 管道来增强生成。
